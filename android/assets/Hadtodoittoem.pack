@@ -1,0 +1,26 @@
+
+Hadtodoittoem.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hadtodoittoem
+  rotate: false
+  xy: 1, 1
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+hadtohandsbarrier
+  rotate: false
+  xy: 225, 182
+  size: 74, 41
+  orig: 74, 41
+  offset: 0, 0
+  index: -1
+hadtohandsbullet
+  rotate: false
+  xy: 225, 148
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
